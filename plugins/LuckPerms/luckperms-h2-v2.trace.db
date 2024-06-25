@@ -1,0 +1,3 @@
+2024-06-25 07:39:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LUCKPERMS_PLAYERS" not found (this database is empty); SQL statement:
+SELECT username, primary_group FROM `luckperms_players` WHERE uuid=? LIMIT 1 [42104-214]
